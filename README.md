@@ -1,1 +1,1 @@
-###A simple react-redux Counter app
+A simple react-redux Counter app
